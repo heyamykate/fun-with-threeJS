@@ -4,10 +4,10 @@ var camera,
     renderer,
     scene,
     shape,
-    controls;
+    controls,
+    WIDTH,
+    HEIGHT;
 
-var WIDTH = 800;
-var HEIGHT = 700;
 WIDTH = window.innerWidth;
 HEIGHT = window.innerHeight;
 
